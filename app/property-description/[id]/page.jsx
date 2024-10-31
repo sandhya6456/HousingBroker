@@ -106,7 +106,7 @@ const PropertyDescription = () => {
                     Schedule a Showing
                   </Button>
                   <Button className="flex-1 bg-primary text-primary-foreground">
-                    <Link href="https://chat.whatsapp.com/JIFxPevzvbXLKgAMDPmu0d">Contact Agent</Link>
+                    <Link href="https://chat.whatsapp.com/LajxnxCgvVyEVRo7NILd29">Contact Agent</Link>
                   </Button>
                 </div>
               </div>
